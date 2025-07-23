@@ -2,7 +2,7 @@
 
 
 
-Project Overview
+Project Overview : 
 This project analyzes Superstore sales data to uncover patterns in customer behavior, sales trends, and product performance. Tools like Pandas, Numpy, Matplotlib, and Seaborn were used for data cleaning, visualization, and exploratory analysis.
 ---
 Objective :
